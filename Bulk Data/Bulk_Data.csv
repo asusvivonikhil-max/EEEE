@@ -1,0 +1,11 @@
+name,description,category,brand,sku,price,stock,color,size
+"Premium Wireless Headphones","Noise-cancelling over-ear headphones with 40-hour battery life.","electronics","AudioMax","AUDIO-HP-BLK",149.99,100,"Black",
+"Premium Wireless Headphones","Noise-cancelling over-ear headphones with 40-hour battery life.","electronics","AudioMax","AUDIO-HP-SLV",149.99,50,"Silver",
+"Minimalist Leather Wallet","Handcrafted full-grain leather wallet with RFID blocking.","accessories","Hide & Co.","ACC-WAL-BRN",45.00,200,"Brown",
+"Minimalist Leather Wallet","Handcrafted full-grain leather wallet with RFID blocking.","accessories","Hide & Co.","ACC-WAL-BLK",45.00,150,"Black",
+"Classic Cotton Tee","100% organic cotton t-shirt with premium comfort fit.","apparel","FitWear","APP-TEE-RED-S",19.99,80,"Red","S"
+"Classic Cotton Tee","100% organic cotton t-shirt with premium comfort fit.","apparel","FitWear","APP-TEE-RED-M",19.99,120,"Red","M"
+"Classic Cotton Tee","100% organic cotton t-shirt with premium comfort fit.","apparel","FitWear","APP-TEE-BLU-M",19.99,100,"Blue","M"
+"Classic Cotton Tee","100% organic cotton t-shirt with premium comfort fit.","apparel","FitWear","APP-TEE-BLU-L",19.99,90,"Blue","L"
+"Ergonomic Office Chair","Breathable mesh desk chair with adjustable lumbar support and 3D armrests.","office","ComfySeat","OFF-CHR-MESH",229.50,30,,
+"Stainless Steel Water Bottle","Double-wall vacuum insulated flask keeping drinks cold for 24h.","sports","HydroFlow","SPT-BOT-GRY",24.95,300,"Grey",
